@@ -30,5 +30,3 @@
   ![Snake animation](https://github.com/carlos-hss/carlos-hss/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=carlos-hss&repo=carlos-hss&theme=react)](https://github.com/carlos-hss/carlos-hss)
