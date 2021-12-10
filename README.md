@@ -2,7 +2,6 @@
 
 - 💻 I’m currently working on my personal projects;
 - 📚 I’m currently learning React;
-- 👦🏽 Pronouns: he/him
 - ⭕️ That's my CodeWars <img src="https://www.codewars.com/users/Carlos.HSS/badges/small"/>
 
 <div align="center">
