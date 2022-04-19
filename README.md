@@ -15,7 +15,7 @@
   <img align="center" alt="carlos-ts" height="40" width="53.33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="carlos-react" height="40" width="53.33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="carlos-nodeJS" height="40" width="53.33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="carlos-sql" height="40" width="53.33" src="https://img.icons8.com/color/344/postgreesql.png">
+  <img align="center" alt="carlos-sql" height="45" width="53.33" src="https://img.icons8.com/color/344/postgreesql.png">
   <img align="center" alt="carlos-html" height="40" width="53.33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="carlos-css" height="40" width="53.33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="carlos-python" height="40" width="53.33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
