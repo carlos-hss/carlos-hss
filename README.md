@@ -1,4 +1,4 @@
-![Banner Github](https://user-images.githubusercontent.com/90366233/165658865-d6b76d43-edbf-4176-b54a-dab0208957d0.gif)
+![Banner Github](https://user-images.githubusercontent.com/90366233/165659084-217106a1-3643-4be3-b870-00a40e0da974.gif)
 
 - 💻 I’m currently working on my personal projects;
 - 📚 I’m currently learning React;
