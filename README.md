@@ -1,3 +1,5 @@
+![Banner Github](https://user-images.githubusercontent.com/90366233/165658865-d6b76d43-edbf-4176-b54a-dab0208957d0.gif)
+
 <h1 align="center" >👋 Hello there, I'm Carlos!</h1>
 
 - 💻 I’m currently working on my personal projects;
