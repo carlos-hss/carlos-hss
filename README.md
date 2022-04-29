@@ -1,7 +1,7 @@
 ![Banner Github](https://user-images.githubusercontent.com/90366233/165659084-217106a1-3643-4be3-b870-00a40e0da974.gif)
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=carlos-hss&hide_border=true&background=000000000&border=41a416&stroke=41a416&ring=41a416&fire=41a416&currStreakNum=41a416&sideNums=41a416&currStreakLabel=41a416&sideLabels=41a416&dates=41a416)](https://git.io/streak-stats"  width="390"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=carlos-hss&hide_border=true&background=010101&border=41a416&stroke=41a416&ring=41a416&fire=41a416&currStreakNum=41a416&sideNums=41a416&currStreakLabel=41a416&sideLabels=41a416&dates=41a416)](https://git.io/streak-stats"  width="390"/>
   <img src="https://github-readme-stats.vercel.app/api?username=carlos-hss&count_private=true&title_color=41a416&text_color=41a416&icon_color=41a416&border_color=41a416&bg_color=ffffff00&hide_border=true"  width="390" />
 </div>
   
