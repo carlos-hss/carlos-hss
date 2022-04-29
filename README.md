@@ -3,12 +3,6 @@
 - 💻 I’m currently working on my personal projects;
 - 📚 I’m currently learning React;
 - ⭕️ That's my CodeWars <img src="https://www.codewars.com/users/Carlos.HSS/badges/small"/>
-
-<div align="center">
-  <a href="https://github.com/carlos-hss">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlos-hss&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-hss&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
   
 <div align="center" style="display: inline_block"><br>
   <img src="https://img.shields.io/static/v1?label=&message=REACT.js&style=for-the-badge&logo=react&color=41a416" />
